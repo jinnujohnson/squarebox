@@ -28,7 +28,7 @@ int main()
 			for(int col=0;col<size;++col)
 				{
 					cout << "#";
-				}
+		}		}
 	return 0;
 }
 
